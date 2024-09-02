@@ -1041,7 +1041,7 @@ nav[data-toggle="toc"] {
 
   .nav-link.active {
     color: var(--global-theme-color);
-    border-left-color: var(--global-theme-color);
+    border-left-color: var(--global-theme-color-light);
     font-size: 0.75rem;
 
     &:hover {
