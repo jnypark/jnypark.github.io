@@ -5,13 +5,12 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
+  align: left
   image: me.jpg
   image_circular: true # crops the image to make it circular
-  [//]: more_info: >
-    [//]: <a href='https://drive.google.com/file/d/1NJcXC_37nmASdDV-0fUSLWGThVtZuW1l/view?usp=drive_link'>CV</a>.
-    [//]: # <p>123 your address street</p>
-    [//]: # <p>Your City, State 12345</p>
+  more_info: >
+    <p><a href='https://drive.google.com/file/d/1NJcXC_37nmASdDV-0fUSLWGThVtZuW1l/view?usp=drive_link'>CV</a></p>
+
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
