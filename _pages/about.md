@@ -9,7 +9,7 @@ profile:
   image: me.jpg
   image_circular: true # crops the image to make it circular
   [//]: # more_info: >
-    [//]: <p><a href='https://drive.google.com/file/d/1NJcXC_37nmASdDV-0fUSLWGThVtZuW1l/view?usp=drive_link'> CV </a><p> #. Address. Contacts. Moto. Etc. <p>555 your office number</p>
+    [//]: <a href='https://drive.google.com/file/d/1NJcXC_37nmASdDV-0fUSLWGThVtZuW1l/view?usp=drive_link'>CV</a>.
     [//]: # <p>123 your address street</p>
     [//]: # <p>Your City, State 12345</p>
 
