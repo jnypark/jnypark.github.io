@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers(including VideoMamba) got accepted by ECCV! :sparkles: :smile:
+Two papers(including VideoMamba) got accepted to ECCV! :sparkles: :smile:
