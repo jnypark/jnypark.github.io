@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper got accepted by AAAI! 
+One paper got accepted to AAAI! 
