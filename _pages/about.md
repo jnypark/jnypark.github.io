@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 Welcome to my research profile!
 
 I am a Ph.D. student in CILab, advised by Professor Changick Kim at KAIST EE. 
-My research focuses on developing AI systems to comprehend the complex real world through multimodal representation learning. 
+My research focuses on developing efficient AI systems to comprehend the complex real world through multimodal representation learning. 
 Currently, I'm exploring state space models (SSMs) for video-related tasks and improving efficiency.
 
 
