@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper on efficient vision state space models got accepted to ICIP 2026! See you in Tampere :finland: :tada:
+One paper got accepted to ICIP 2026! See you in Tampere :finland:

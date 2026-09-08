@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started a research internship at Microsoft Research Asia (Beijing), General Artificial Intelligence Group! :wave:
+Started a research internship at Microsoft Research Asia! :wave:
