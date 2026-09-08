@@ -20,6 +20,6 @@ Welcome to my research profile!
 
 I am a Ph.D. candidate in CILab at KAIST EE, advised by Professor Changick Kim. Previously, I was a research intern at Microsoft Research Asia.
 
-My research focuses on multimodal AI systems that perceive, understand, and act in complex real-world environments. My work spans multi-sensor fusion, vision-language and video understanding, and efficient sequence modeling with state space models (SSMs). More recently, my work has extended from perception to action, focusing on multimodal agents that understand and edit documents in real-world software such as Microsoft Word.
+My research focuses on multimodal AI systems that perceive, understand, and act in complex real-world environments. My work spans multi-sensor fusion, vision-language and video understanding, and efficient sequence modeling with state space models (SSMs). More recently, I have been developing benchmarks and evaluation methods for multimodal agents that create and edit real-world documents in applications such as Microsoft Word.
 
 If you are interested in collaborating, feel free to reach out :)
